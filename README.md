@@ -5,7 +5,7 @@ Oasis Infobyte- Web development and Designing Intern
 
 #  Level-2 Task
 
-🔰Task-1 - Currency Convertor 
+🔰Task-1 - Calculator
 
 🚀 Technologies Required :
 Html , Css and Javascript
