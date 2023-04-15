@@ -26,6 +26,7 @@ Html , Css
 💻 Project Description :
 With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background color
 
+![image](https://user-images.githubusercontent.com/95160600/232197200-bf2f9230-b5c0-41c7-88f0-d1853d97a4d2.png)
 
 
 🔰Task-3 - A BASIC TO-DO WEBAPP
