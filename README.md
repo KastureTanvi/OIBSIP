@@ -4,7 +4,7 @@
 Oasis Infobyte- Web development and Designing Intern
 
 #  Level-2 Task
-#Task 1
+# Task 1
 
 🔰Task-1 - Calculator
 
@@ -17,7 +17,7 @@ It takes a little skill to create a calculator with basic mathematical functiona
 
 ![image](https://user-images.githubusercontent.com/95160600/232194835-4e201ac2-0a90-4b54-bd76-a881ccb480f6.png)
 
-#Task 2
+# Task 2
 
 🔰Task-2 - Tribute Page
 
@@ -29,7 +29,7 @@ With a basic understanding of HTML and CSS, you can easily create a page for som
 
 
 
-#Task 3
+# Task 3
 
 🔰Task-3 - A BASIC TO-DO WEBAPP
 
