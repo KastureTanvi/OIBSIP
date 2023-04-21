@@ -6,6 +6,7 @@ Oasis Infobyte- Web development and Designing Intern
 #  Level-2 Task
 
 🔰Task-1 - Calculator
+________________________________________________________________________________________________________________________________________________________________
 
 🚀 Technologies Required :
 Html , Css and Javascript
@@ -19,6 +20,7 @@ It takes a little skill to create a calculator with basic mathematical functiona
 
 
 🔰Task-2 - Tribute Page
+_________________________________________________________________________________________________________________________________________________________
 
 🚀 Technologies Required :
 Html , Css 
@@ -31,6 +33,7 @@ With a basic understanding of HTML and CSS, you can easily create a page for som
 
 
 🔰Task-3 - A BASIC TO-DO WEBAPP
+_______________________________________________________________________________________________________________________________________________________________
 
 🚀 Technologies Required :
 Html , Css , Javascript
